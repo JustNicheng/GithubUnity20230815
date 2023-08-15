@@ -4,7 +4,7 @@ namespace JSNi
 {
     public class menu : MonoBehaviour
     {
-        bool start = false;
+        float speed = 3.5f;
     }
 }
 
